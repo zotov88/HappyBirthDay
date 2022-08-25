@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HappyBirthDay</string>
+    <string name="generate_text">Generate text</string>
+    <string name="generate">generate</string>
+    <string name="copy">copy</string>
+    <string name="share">share</string>
 </resources>
